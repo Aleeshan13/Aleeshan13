@@ -5,9 +5,7 @@
 - 💼 I am aiming to build my portfolio through case studies, feature ideation, and product-focused research — right here on GitHub
 - 🤝 I am open to collaborating on early-stage product ideas, UX research, or user-driven feature design projects
 - 📫 How to reach me zainabmustaphamojisola@gmail.com
-- ⚡ un fact: My foundation in **data, design, and digital communication** helps me approach product challenges with both empathy and structure
-- Fun fact: Although I'm diving into UX design, I have a background in data analysis, data privacy, and graphic design, which helps me approach design with a problem-solving mindset...
-- Fun fact: My foundation in **data, design, and digital communication** helps me approach product challenges with both empathy and structure
+- ⚡ Fun fact: My foundation in **data, design, and digital communication** helps me approach product challenges with both empathy and structure
 - Let’s build products that matter! 🚀
 
 <!---
