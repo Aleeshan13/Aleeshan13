@@ -4,7 +4,7 @@
 - 💞️ I recently completed the Google UX Design Certificate and Great Learning PM course; currently taking the Product Discovery Micro-Certification and gaining hands-on experience through volunteer roles
 - 💼 I am aiming to build my portfolio through case studies, feature ideation, and product-focused research — right here on GitHub
 - 🤝 I am open to collaborating on early-stage product ideas, UX research, or user-driven feature design projects
-- 📫 How to reach me zainabmustaphamojisola@gmail.com
+- 📫 How to reach me zainabmustapham@outlook.com
 - ⚡ Fun fact: My foundation in **data, design, and digital communication** helps me approach product challenges with both empathy and structure
 - Let’s build products that matter! 🚀
 
